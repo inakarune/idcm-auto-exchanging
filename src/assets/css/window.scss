@@ -1,0 +1,58 @@
+.window-box {
+    padding: 0 15px 15px 15px;
+    box-sizing: border-box;
+    background-color: #151d3d;
+    border-radius: 10px;
+}
+.box-content {
+    background-color: #1c2755;
+    color: white;
+    font-size: 12px;
+    border-radius: 10px;
+}
+
+button {
+    color: white;
+    border: none;
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+input {
+    background-color: transparent;
+    border: 1px solid #767d98;
+    color: white;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.mint {
+    background-color: #2cb9a9;
+}
+.red {
+    background-color: #ff6159;
+    margin: 0 10px;
+}
+.blue {
+    background-color: #0177e8;
+    margin-right: 10px;
+}
+.orange {
+    background-color: #ff9152;
+}
+.input-box {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user-box {
+    background-color: #1c2755;
+    margin-top: 15px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
